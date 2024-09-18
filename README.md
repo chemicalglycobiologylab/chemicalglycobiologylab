@@ -9,7 +9,7 @@
 
 - 🔭 we're currently working on [Plant pathogen interactions, Structural elucidation of novel glycans, and Multiomics data analysis]
 
-- 🌱 we're currently learning ** transcriptomics, Proteomics, Python,  R, Shell script, **
+- 🌱 we're currently working on  ** transcriptomics, Proteomics, Bigdata analysis, Python, R, Shell script, **
 
 - 👨‍💻 All of our projects are available at [[https://goo.gl/nSAMzY](https://www.bits-pilani.ac.in/pilani/research-projects/?faculty=balakumaran-chandrasekar)]([https://goo.gl/nSAMzY](https://www.bits-pilani.ac.in/pilani/research-projects/?faculty=balakumaran-chandrasekar))
 
