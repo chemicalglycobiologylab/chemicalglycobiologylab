@@ -17,7 +17,9 @@
 
 - 📄 Our recent publications [https://scholar.google.com/citations?hl=en&user=mG0bWLIAAAAJ](https://scholar.google.ca/citations?user=iKI8S8gAAAAJ&hl=en)]
 
-- ⚡ Fun fact **"Cotton candy was invented by a dentist"**
+- ⚡ Fun fact **"Why did the mushroom go to the party?
+
+Because he was a fungi! 🍄🎉😄"**
 
 
 <h3 align="left">Languages and Tools:</h3>
